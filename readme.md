@@ -46,6 +46,13 @@ Before running the Stock Market Simulator Frontend, make sure you have the follo
 
 **Java(TM) SE Runtime Environment 17.0.5**: You can use newer versions, but this specific version is recommended.
 
+1. **Server Setup**: Open stockMarketServer.exe and allow full firewall permissions if prompted. Download the server from this Google Drive link. Ignore any warnings about the file being dangerous for your computer. Start the server from the GUI menu. This will automatically create the user_data and stock_data database files in the directory. If they get deleted, you can relaunch the server to recreate them.
+
+2. **Frontend Setup**: Open finalStockMarket.jar.
+
+3. **Connect to a Server:** Select the server you want to connect to. You can use multiple servers on different devices, and the frontend will display all of them for you to choose.
+  
+4. **Account Creation**: Create an account. Your login credentials, stocks, and balance will be stored in the database for future use. Even if the server and frontend are closed, you can restart the server, connect to it, and log in with the same details.
 ## Contact
 
 If you have questions, feedback, or require assistance, please reach out to harguntas.benipal@mail.utoronto.ca
