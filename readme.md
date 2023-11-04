@@ -44,9 +44,9 @@ For detailed instructions on how to set up and use the Stock Market Simulator Ja
 ### Prerequisites 
 Before running the Stock Market Simulator Frontend, make sure you have the following prerequisites:
 
-**Java(TM) SE Runtime Environment 17.0.5**: You can use newer versions, but this specific version is recommended.
+**Java(TM) SE Runtime Environment 17.0.5**: You can use newer versions as well.
  
-## Steps
+### Steps
 1. **Server Setup**: Open stockMarketServer.exe and allow full firewall permissions if prompted. Download the server from this Google Drive link. Ignore any warnings about the file being dangerous for your computer. Start the server from the GUI menu. This will automatically create the user_data and stock_data database files in the directory. If they get deleted, you can relaunch the server to recreate them.
 
 2. **Frontend Setup**: Open finalStockMarket.jar.
