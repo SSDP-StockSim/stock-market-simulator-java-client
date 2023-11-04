@@ -30,13 +30,17 @@ The Dashboard Page provides students with an at-a-glance view of their stock mar
 
 1.  **Stock Trading (Trade stocks):** Execute buy and sell orders for stocks in the S&P 500, giving students hands-on experience in trading.
     ![Trade stocks](https://i.imgur.com/djOkxCJ.png)
+    
 2.  **Portfolio Overview (See portfolio):** Review their stock portfolio, showing the stocks they currently own alongside the book value, and their performance.
     ![See portfolio](https://i.imgur.com/3SL5PKo.png)
+    
 3.  **Price Information (See stocks):** Obtain real-time price information for specific stocks in the S&P 500, facilitating informed decision-making.
     ![See stocks 1](https://i.imgur.com/OgbD4S6.png)
+    
     3.1  **Price Information (Visualization of stocks):** Visualize real-time and historic (up to 30 years) price information for specific stocks in the S&P 500, facilitating informed decision-making.
-    ![See stocks 2](https://i.imgur.com/mx6GyY2.png)
-5.  **Logout:** Allows students to safely log out of their accounts when they have finished their stock market activities. It ensures data privacy and security for each user.
+        ![See stocks 2](https://i.imgur.com/mx6GyY2.png)
+    
+4.  **Logout:** Allows students to safely log out of their accounts when they have finished their stock market activities. It ensures data privacy and security for each user.
 
 ## Getting Started
 
