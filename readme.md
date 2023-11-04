@@ -22,20 +22,21 @@ Upon selecting the relevant server, students are directed to the Login/Signup Pa
 
 ### 3. Dashboard Page
 
-The Dashboard Page provides students with an at-a-glance view of their stock market performance. It displays essential information, including the original balance, current balance, and net profit. Additionally, it introduces the market simulator, offering students a practical and risk-free environment for trading and honing their investment skills.
+The Dashboard Page provides students with an at-a-glance view of their stock market performance. It displays essential information, including the original balance, current balance, and net profit. Additionally, it introduces the market simulator, offering students a practical and risk-free environment for trading and honing their investment skills. 
 
 **Key Features of the Dashboard Page:**
 
 ![Dashboard Page](https://i.imgur.com/EC3ZVgJ.png)
 
-1.  **Stock Trading (Trade stocks):** Execute buy and sell orders for stocks, giving students hands-on experience in trading.
+1.  **Stock Trading (Trade stocks):** Execute buy and sell orders for stocks in the S&P 500, giving students hands-on experience in trading.
     ![Trade stocks](https://i.imgur.com/djOkxCJ.png)
-2.  **Portfolio Overview (See portfolio):** Review their stock portfolio, showing the stocks they currently own and their performance.
+2.  **Portfolio Overview (See portfolio):** Review their stock portfolio, showing the stocks they currently own alongside the book value, and their performance.
     ![See portfolio](https://i.imgur.com/3SL5PKo.png)
-3.  **Price Information (See stocks):** Obtain real-time price information for specific stocks, facilitating informed decision-making.
+3.  **Price Information (See stocks):** Obtain real-time price information for specific stocks in the S&P 500, facilitating informed decision-making.
     ![See stocks 1](https://i.imgur.com/OgbD4S6.png)
+    3.1  **Price Information (Visualization of stocks):** Visualize real-time and historic (up to 30 years) price information for specific stocks in the S&P 500, facilitating informed decision-making.
     ![See stocks 2](https://i.imgur.com/mx6GyY2.png)
-4.  **Logout:** Allows students to safely log out of their accounts when they have finished their stock market activities. It ensures data privacy and security for each user.
+5.  **Logout:** Allows students to safely log out of their accounts when they have finished their stock market activities. It ensures data privacy and security for each user.
 
 ## Getting Started
 
