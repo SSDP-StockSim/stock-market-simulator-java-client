@@ -2,7 +2,7 @@
 
 The **Stock Market Simulator Java Client** is a versatile and user-friendly application built entirely in Java Swing. It serves as the ideal companion to the Stock Market Simulator Server Manager, providing students with the tools they need to engage in simulated stock market activities and gain valuable financial knowledge. This client library seamlessly interfaces with the server library from the server manager repository, ensuring a smooth and cohesive user experience.
 
-Note: the graphical interface is still work in progress.
+**Note**: the graphical interface is still work in progress.
 
 ## Key Features
 
@@ -40,6 +40,11 @@ The Dashboard Page provides students with an at-a-glance view of their stock mar
 ## Getting Started
 
 For detailed instructions on how to set up and use the Stock Market Simulator Java Client, please refer to the README files in the client folder. These guides provide step-by-step instructions to help students effectively and efficiently utilize the client for a rich educational experience.
+
+### Prerequisites 
+Before running the Stock Market Simulator Frontend, make sure you have the following prerequisites:
+
+**Java(TM) SE Runtime Environment 17.0.5**: You can use newer versions, but this specific version is recommended.
 
 ## Contact
 
