@@ -31,7 +31,7 @@ The Server Discovery Page utilizes SSDP (Simple Service Discovery Protocol) to s
 
 ### 2. Login/Signup Page
 
-Upon selecting the relevant server, students are directed to the Login/Signup Page. Here, they have the option to either create a new user account or log in with their existing credentials, including a username and password. This step is essential for tracking individual performance and maintaining a personalized learning experience.
+Upon selecting the relevant server, students are directed to the Login/Signup Page. Here, they have the option to either create a new user account or log in with their existing credentials, including a username and password. This step is essential for tracking individual performance and maintaining a personalized learning experience. Client-side validation is implemented to ensure that user inputs are accurate, follow formatting rules, and are free from errors. This step helps prevent unnecessary database requests for invalid data.
 
 ![Login/Signup Page](https://i.imgur.com/TNnv7J8.png)
 
