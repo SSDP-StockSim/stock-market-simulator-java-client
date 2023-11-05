@@ -4,7 +4,7 @@ The **Stock Market Simulator Java Client** is a versatile and user-friendly appl
 
 **Note**: the graphical interface is still work in progress.
 
-for info on custom SSDP/server client library see: [Stock market simulator server manager](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager)
+For more information on the custom SSDP/server client library see: [Stock market simulator server manager](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager)
 
 ## Key Features
 
@@ -12,7 +12,7 @@ The Java client boasts a range of features that empower students to interact wit
 
 ### 1. Server Discovery Page
 
-The Server Discovery Page utilizes SSDP (Simple Service Discovery Protocol) to scan the local network and identify all available stock market servers. This allows students to locate and connect to the appropriate server corresponding to their classroom. It simplifies the setup process and ensures students are directed to the correct simulation environment.
+The Server Discovery Page utilizes SSDP (Simple Service Discovery Protocol) to scan the local network and identify all available stock market servers. This allows students to locate and connect to the appropriate server corresponding to their classroom. It simplifies the setup process and ensures students are directed to the correct simulation environment. For more information on the custom SSDP/server client library see: [Stock market simulator server manager](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager)
 
 ![Server Discovery Page](https://i.imgur.com/ecNp2tM.png)
 
