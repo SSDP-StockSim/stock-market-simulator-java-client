@@ -2,21 +2,6 @@
 
 The **Stock Market Simulator Java Client** is a versatile and user-friendly application built entirely in Java Swing. It serves as the ideal companion to the Stock Market Simulator Server Manager, providing students with the tools they need to engage in simulated stock market activities and gain valuable financial knowledge. This client library seamlessly interfaces with the server library from the server manager repository, ensuring a smooth and cohesive user experience.
 
-## Technologies
-This appilcation frontend was built entirely in Java Swing, a powerful and versatile graphical user interface (GUI) library for Java applications. Here's an overview of the technologies used in the client:
-
-### **1. Java Swing**
-Java Swing is a Java library that provides a set of graphical user interface components for building interactive and user-friendly desktop applications. In the context of this application, Java Swing is the foundation of the client's graphical interface. It offers a wide range of UI components such as buttons, labels, text fields, and graphs, which have been used to create the frontend of the application.
-
-### **2. SSDP (Simple Service Discovery Protocol)**
-The Server Discovery Page in the client utilizes the Simple Service Discovery Protocol (SSDP) to scan the local network and identify all available stock market servers. In this application, SSDP is used to simplify the setup process for students, helping them locate and connect to the appropriate server for their classroom. It's a technology that enhances the user experience by automating the server discovery process.
-
-### **3. Java(TM) SE Runtime Environment**
-To run the Stock Market Simulator Java Client, users need to have Java(TM) SE Runtime Environment (JRE) 17.0.5 or newer versions installed on their systems. Java JRE is required to execute Java applications, including this client. It provides the necessary runtime environment for Java Swing to function smoothly and render the GUI elements effectively.
-
-### **4. Real-time Stock Data Visualization**
-The Stocks Search Page includes features to visualize real-time and historic price information for specific stocks in the S&P 500. While not explicitly mentioned in the description, this functionality likely relies on data visualization libraries or techniques to display stock price trends graphically. Java Swing provides the framework for incorporating such visualizations seamlessly into the client's user interface.
-
 **Note**: the graphical interface is still work in progress.
 
 ## Key Features
