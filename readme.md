@@ -4,6 +4,8 @@ The **Stock Market Simulator Java Client** is a versatile and user-friendly appl
 
 **Note**: the graphical interface is still work in progress.
 
+for info on custom SSDP/server client library see: [Stock market simulator server manager](https://github.com/Stock-market-simulator-rsodhi-hbenipal/stock-market-simulator-server-manager)
+
 ## Key Features
 
 The Java client boasts a range of features that empower students to interact with the stock market simulator effortlessly. Here are the main pages and functionalities within the client:
